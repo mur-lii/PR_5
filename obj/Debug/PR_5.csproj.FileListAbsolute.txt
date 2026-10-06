@@ -1,0 +1,14 @@
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\bin\Debug\PR_5.exe.config
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\bin\Debug\PR_5.exe
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\bin\Debug\PR_5.pdb
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\obj\Debug\PR_5.csproj.AssemblyReference.cache
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\obj\Debug\PR_5.csproj.CoreCompileInputs.cache
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\obj\Debug\PR_5.exe
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_5\obj\Debug\PR_5.pdb
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\bin\Debug\PR_5.exe.config
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\bin\Debug\PR_5.exe
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\bin\Debug\PR_5.pdb
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\obj\Debug\PR_5.csproj.AssemblyReference.cache
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\obj\Debug\PR_5.csproj.CoreCompileInputs.cache
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\obj\Debug\PR_5.exe
+C:\Users\kuzin\Desktop\Лис\PR_5-20260922T092935Z-1-001\PR_5\obj\Debug\PR_5.pdb
